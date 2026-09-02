@@ -5,13 +5,13 @@
 		"annotations": [],
 		"type": "AzureSqlDatabase",
 		"typeProperties": {
-			"server": "sql-ucb-sisge-par2.database.windows.net",
-			"database": "free-sql-db-4236415",
+			"server": "df-ucb-sisger8585332.database.windows.net",
+			"database": "sql-db-3828869",
 			"encrypt": "mandatory",
 			"trustServerCertificate": false,
 			"authenticationType": "SQL",
 			"userName": "dayana",
-			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQEI1NUE4QjE0LUI2REUtNDA2My05NzI4LTM4QjczOTY0MjY2MV9iZWIzZTUwMS05NTJkLTRjNDQtOGIzMi1jZjllN2YxYmQ5YmQiDQp9"
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDExOThGNTU2LTQ3RDAtNDkzRS04QThGLTFGRDk3MzhBNjdGMl85MWFhNzA1Mi02YzAzLTQ1NTEtOGFlNC0zYjgzZmJjZGE5ZGQiDQp9"
 		}
 	}
 }
